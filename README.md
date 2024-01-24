@@ -1,2 +1,2 @@
-# Clock-Project-
+# React-miniProjects
 Using React Functionality
