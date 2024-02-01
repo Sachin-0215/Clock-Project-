@@ -1,5 +1,6 @@
-
 import './App.css';
+import { useEffect } from 'react';
+import Clock from './components/Clock/index'
 
 function App() {
   return (
